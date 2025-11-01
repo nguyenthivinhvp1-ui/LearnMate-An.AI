@@ -77,7 +77,7 @@
   </div>
 
   <script>
-    const API_KEY = "YOUR_API_KEY_HERE"; // ← Dán API key của bạn tại đây
+    const API_KEY = "AIzaSyDqVVYRBiopOLYFvGgvnsvHuzi8UIKOcDw"; // ← Dán API key của bạn tại đây
     const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=" + API_KEY;
 
     let subject = "";
@@ -136,3 +136,4 @@
   </script>
 </body>
 </html>
+
