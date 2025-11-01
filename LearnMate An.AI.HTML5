@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>AI Tutor – Trợ lý học tập Socratic</title>
+  <title>LearnMate An.AI</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -53,7 +53,7 @@
 </head>
 
 <body>
-  <h2>🤖 AI Tutor – Trợ lý học tập Socratic</h2>
+  <h2>🤖 LearnMate An.AI</h2>
 
   <!-- Chọn môn học -->
   <div id="subject-selection">
@@ -136,4 +136,5 @@
   </script>
 </body>
 </html>
+
 
