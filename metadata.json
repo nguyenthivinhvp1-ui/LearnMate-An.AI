@@ -1,0 +1,8 @@
+{
+  "name": "Thư Viện Cộng Đồng Số Xã Liên Châu",
+  "description": "Không gian đọc, học tập, tra cứu và khám phá tri thức số cho nhân dân xã Liên Châu - Trung tâm học tập cộng đồng xã Liên Châu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
