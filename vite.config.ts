@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+     base: '/https://github.com/nguyenthivinhvp1-ui/LearnMate-An.AI/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
